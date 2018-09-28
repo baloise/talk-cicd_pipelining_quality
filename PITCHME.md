@@ -65,11 +65,18 @@ application(s), service(s), test(s), environment(s), runtime(s), work- and data-
 
 ## parallelize
 
-environments
 branches
 stacks
 builds
 deploys
+
+---
+
+## sequences
+
+T -> I -> A -> P
+
+batches
 
 ---
 

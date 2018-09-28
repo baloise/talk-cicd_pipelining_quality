@@ -25,7 +25,7 @@ Software, Security & Release Engineer @ [Baloise](https://www.baloise.com)
 
 ## insights
 - large-scale insurance enterprise project
-- 4 products: PolicyCenter, BillingCenter, ContactManager and Portal Solution
+- 4 products: PolicyCenter, BillingCenter, ContactManager and end-user portal solution(s)
 - 8 Scrum teams with ~75 people in 2 week sprints
 - 30+ releases per year
 

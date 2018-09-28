@@ -12,14 +12,11 @@
 
 Software, Security & Release Engineer @ [Baloise](https://www.baloise.com)
 
-+++?image=https://github.com/baloise/talk-cicd-javascript/raw/master/img/baloise-park.jpg
++++?image=https://github.com/baloise/talk-cicd-javascript/raw/master/img/baloise-park.jpg&size=contain
 
-## about/baloise
+## @color[#FFFFFF](about/baloise)
 
-+++?
-
-## about/galileo
-
++++?mage=https://www-images.christianitytoday.com/images/67483.jpg&size=contain
 
 ---
 

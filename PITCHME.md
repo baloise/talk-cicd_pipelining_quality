@@ -63,7 +63,7 @@ application(s), service(s), test(s), environment(s), runtime(s), work- and data-
 
 ---
 
-## parallize
+## parallelize
 
 environments
 branches
@@ -79,7 +79,7 @@ MAJOR == MINOR == MICRO == HOTFIX
 
 ---
 
-## reproducible
+## reproduce
 
 ---
 

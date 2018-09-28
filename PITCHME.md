@@ -24,17 +24,15 @@ Software, Security & Release Engineer @ [Baloise](https://www.baloise.com)
 +++
 
 ## insights
-large-scale insurance enterprise project
+large-scale insurance enterprise project: 1.3k parallel internal sessions / day
 
 4 products: PolicyCenter, BillingCenter, ContactManager and end-user portal solution(s)
 
 8 Scrum teams work in parallel in 2 week sprints
 
-30+ releases per year
-
 +++?image=https://upload.wikimedia.org/wikipedia/commons/4/43/Angry_elephant_ears.jpg&size=contain
 
-## @color[white](technical specs)
+## @color[white](some #numbers)
 @color[white](JBoss cluster of 4 * [2 + 1] nodes)
 
 @color[white](~150 GB RAM / cluster)
@@ -42,6 +40,8 @@ large-scale insurance enterprise project
 @color[white](24/7 up-time)
 
 @color[white](~30 min / rollout)
+
+@color[white](30+ production releases per year)
 
 ---
 

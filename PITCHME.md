@@ -59,7 +59,7 @@ best practices & tools
 ## automate
 everything as code under version control
 
-application(s), service(s), test(s), environment(s), runtime(s), work- and data-flows
+application(s), service(s), test(s), environment(s), runtime(s), pipeline(s), work- and data-flows
 
 ---
 

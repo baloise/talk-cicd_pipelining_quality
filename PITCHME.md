@@ -35,13 +35,13 @@ large-scale insurance enterprise project
 +++?image=https://upload.wikimedia.org/wikipedia/commons/4/43/Angry_elephant_ears.jpg&size=contain
 
 ## @color[white](technical specs)
-JBoss cluster of 4 * (2 + 1) nodes
+@color[white](JBoss cluster of 4 * (2 + 1) nodes)
 
-~150 GB RAM / cluster
+@color[white](~150 GB RAM / cluster)
 
-24/7 up-time 
+@color[white](24/7 up-time)
 
-~30 min / rollout
+@color[white](~30 min / rollout)
 
 ---
 

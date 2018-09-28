@@ -1,4 +1,4 @@
----
+---?color=#lightgreen
 
 # Pipelining Quality
 
@@ -23,6 +23,6 @@ Software, Security & Release Engineer @ [Baloise](https://www.baloise.com)
 
 ---
 
-## Intro
+## quality
 
 ---

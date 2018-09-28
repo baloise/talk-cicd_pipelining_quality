@@ -14,9 +14,9 @@ Software, Security & Release Engineer @ [Baloise](https://www.baloise.com)
 
 +++?image=https://github.com/baloise/talk-cicd-javascript/raw/master/img/baloise-park.jpg&size=contain
 
-## @color[#FFFFFF](about/baloise)
+## @color[#FFFFFF](about/[baloise](https://www.baloise.com))
 
-+++?mage=http://amazingspace.org/resources/explorations/groundup/lesson/scopes/galileo/graphics/tele_galileo_big.jpg&size=contain
++++?image=http://amazingspace.org/resources/explorations/groundup/lesson/scopes/galileo/graphics/tele_galileo_big.jpg&size=contain
 
 ## about/[galileo](https://www.guidewire.com/about-us/news-and-events/press-releases/20160912/basler-versicherung-extends-guidewire-products)
 

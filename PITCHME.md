@@ -21,8 +21,24 @@ Software, Security & Release Engineer @ [Baloise](https://www.baloise.com)
 
 ## about/[galileo](https://www.guidewire.com/about-us/news-and-events/press-releases/20160912/basler-versicherung-extends-guidewire-products)
 
++++
+
+## insights
+- large-scale insurance enterprise project
+- 4 products: PolicyCenter, BillingCenter, ContactManager and Portal Solution
+- 8 Scrum teams with ~75 people in 2 week sprints
+- 30+ releases per year
+
++++?image=https://commons.wikimedia.org/wiki/File:Angry_elephant_ears.jpg&size=contain
+
+## technical specs
+
+
 ---
 
 ## quality
+### 
+### knowledge
+### 
 
 ---

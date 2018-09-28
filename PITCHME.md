@@ -35,7 +35,7 @@ large-scale insurance enterprise project
 +++?image=https://upload.wikimedia.org/wikipedia/commons/4/43/Angry_elephant_ears.jpg&size=contain
 
 ## @color[white](technical specs)
-@color[white](JBoss cluster of 4 * (2 + 1) nodes)
+@color[white](JBoss cluster of 4 * [2 + 1] nodes)
 
 @color[white](~150 GB RAM / cluster)
 

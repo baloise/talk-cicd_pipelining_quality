@@ -57,3 +57,40 @@ best practices
 tools
 
 ---
+
+## automate
+everything as code under version control
+
+application(s), service(s), test(s), environment(s), runtime(s), work- and data-flows
+
+---
+
+## parallize
+
+environments
+branches
+stacks
+builds
+deploys
+
+---
+
+## no exceptions
+
+MAJOR == MINOR == MICRO == HOTFIX
+
+---
+
+## reproducible
+
+---
+
+## golden data / master
+
+---
+
+## knowledge (graphs)
+
+---
+
+## monitor

@@ -1,4 +1,4 @@
----?color=#lightgreen
+---?color=lightgreen
 
 # Pipelining Quality
 

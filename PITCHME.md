@@ -49,7 +49,11 @@ many in- and outbound services
 
 ---
 
-## quality
-### knowledge
+## (known) quality
+lessons learned
+
+best practices
+
+tools
 
 ---

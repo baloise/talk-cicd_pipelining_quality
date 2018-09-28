@@ -52,9 +52,7 @@ many in- and outbound services
 ## (known) quality
 lessons learned
 
-best practices
-
-tools
+best practices & tools
 
 ---
 

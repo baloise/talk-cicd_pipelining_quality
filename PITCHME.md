@@ -29,7 +29,7 @@ Software, Security & Release Engineer @ [Baloise](https://www.baloise.com)
 - 8 Scrum teams with ~75 people in 2 week sprints
 - 30+ releases per year
 
-+++?image=https://commons.wikimedia.org/wiki/File:Angry_elephant_ears.jpg&size=contain
++++?image=https://upload.wikimedia.org/wikipedia/commons/4/43/Angry_elephant_ears.jpg&size=contain
 
 ## technical specs
 

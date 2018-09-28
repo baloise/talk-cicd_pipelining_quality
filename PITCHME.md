@@ -24,9 +24,13 @@ Software, Security & Release Engineer @ [Baloise](https://www.baloise.com)
 +++
 
 ## insights
-large-scale insurance enterprise project: 1.3k parallel internal sessions / day
+large-scale insurance enterprise project
+
+1.3k parallel internal sessions / day
 
 4 products: PolicyCenter, BillingCenter, ContactManager and end-user portal solution(s)
+
+many in- and outbound services
 
 8 Scrum teams work in parallel in 2 week sprints
 

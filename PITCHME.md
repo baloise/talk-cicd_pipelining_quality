@@ -15,7 +15,7 @@ Software, Security & Release Engineer @ [Baloise](https://www.baloise.com)
 
 +++?image=https://github.com/baloise/talk-cicd-javascript/raw/master/img/baloise-park.jpg&size=contain
 
-## @color[#FFFFFF](about/[baloise](https://www.baloise.com))
+## @color[white](about/[baloise](https://www.baloise.com))
 
 +++?image=http://amazingspace.org/resources/explorations/groundup/lesson/scopes/galileo/graphics/tele_galileo_big.jpg&size=contain
 
@@ -31,7 +31,7 @@ Software, Security & Release Engineer @ [Baloise](https://www.baloise.com)
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/4/43/Angry_elephant_ears.jpg&size=contain
 
-## technical specs
+## @color[white](technical specs)
 
 
 ---

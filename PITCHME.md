@@ -49,7 +49,16 @@ many in- and outbound services
 
 ---
 
-## (known) quality
+## quality
+
++++
+
+## quality knowlegde
+
++++
+
+## reproducible
+
 lessons learned
 
 best practices & tools
@@ -60,6 +69,10 @@ best practices & tools
 everything as code under version control
 
 application(s), service(s), test(s), environment(s), runtime(s), pipeline(s), work- and data-flows
+
+---
+
+## de-couple
 
 ---
 

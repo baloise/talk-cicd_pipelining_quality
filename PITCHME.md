@@ -53,11 +53,11 @@ many in- and outbound services
 
 +++
 
-## quality knowlegde
+## knowlegde
 
 +++
 
-## reproducible
+## reproducibility
 
 lessons learned
 

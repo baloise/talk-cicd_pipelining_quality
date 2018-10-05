@@ -55,7 +55,8 @@ in- and outbound services
 ---
 
 ## release management 
-### high-level goal: __knowledge__
+
+high-level goal: __knowledge__
 
 1. dates: code-freeze, going-live
 2. content: fixes, features, epics

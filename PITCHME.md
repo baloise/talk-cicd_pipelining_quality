@@ -120,7 +120,7 @@ under @color[darkgreen](version control)
 
 @color[darkgreen](**everything** as code)
 
-application(s), build(s), test(s), environment(s), runtime(s)
+application(s), build(s), deploy(s), rollout(s), test(s), environment(s), runtime(s)
 
 +++
 
@@ -134,7 +134,7 @@ running in [Jenkins OSS](https://jenkins.io) pipelines
 
 +++
 
-## de-coupled build and deploys
+## deploy(s) & rollout(s)
 
 ![](img/deployment.png)
 

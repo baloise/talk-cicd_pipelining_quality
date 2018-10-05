@@ -179,10 +179,6 @@ MAJOR == MINOR == MICRO == HOTFIX
 
 ---
 
-## reproduce
-
----
-
 ## golden data / master
 
 ---

@@ -84,7 +84,7 @@ version controlled
 <!-- 
 {
  "data": {
-  "labels": ["Mo"," Tu"," We"," Th"," Fr", "Mo"," Tu"," We"," Th"," Fr"],
+  "labels": ["We","Th","Fr","Mo","Tu","We","Th","Fr","Mo","Tu"],
   "datasets": [
    {
     "data":[0,15,25,35,45,55,65,75,85,100],
@@ -113,7 +113,7 @@ version controlled
 <!-- 
 {
  "data": {
-  "labels": ["Mo"," Tu"," We"," Th"," Fr", "Mo"," Tu"," We"," Th"," Fr"],
+  "labels": ["We","Th","Fr","Mo","Tu","We","Th","Fr","Mo","Tu"],
   "datasets": [
    {
     "data":[0,15,25,25,20,40,55,50,65,60],

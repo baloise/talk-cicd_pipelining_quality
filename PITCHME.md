@@ -84,7 +84,26 @@ unknown → known
 
 ---
 
-## @color[darkgreen](1. traceability)
+## @color[goldenrod](predictability)
+
+- knowledge tracking: digital
+- automate everything
+- freeze: snapshots, versioning
+- deceleration: T → I → A → P
+- data: only PROD is PROD
+
++++
+
+## @color[goldenrod](flexibility)
+
+- gain knowledge: fail fast & early
+- allow alternatives: parallelization
+- be prepared: fastlane
+- be observant: monitoring
+
+---
+
+## @color[darkgreen](knowledge tracking)
 
 everything @color[darkgreen](digital and connected)
 
@@ -96,17 +115,15 @@ under @color[darkgreen](version control)
 
 ---
 
-## @color[darkgreen](2. reproducibility)
-
-@color[darkgreen](**automation** is key)
+## @color[darkgreen](automate everything)
 
 @color[darkgreen](**everything** as code)
 
-application(s), service(s), build(s), test(s), environment(s), runtime(s)
+application(s), build(s), test(s), environment(s), runtime(s)
 
 +++
 
-## application(s) & service(s) & build(s)
+## application(s) & build(s)
 
 [Java 8](https://www.java.com/de/download/) and [Jakarta EE](https://jakarta.ee)
 

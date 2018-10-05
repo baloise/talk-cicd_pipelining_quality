@@ -82,19 +82,19 @@ version controlled
 <!-- 
 {
  "data": {
-  "labels": ["Monday"," Tuesday"," Wednesday"," Thursday"," Friday"],
+  "labels": ["Mo"," Tu"," We"," Th"," Fr", "Mo"," Tu"," We"," Th"," Fr"],
   "datasets": [
    {
-    "data":[65,59,80,81,56],
-    "label":"App1","backgroundColor":"rgba(20,220,220,.8)"
+    "data":[65,59,80,81,56,65,59,80,81,56],
+    "label":"App1","backgroundColor":"rgba(20,220,220,.6)"
    },
    {
-    "data":[28,48,40,19,86],
-    "label":"App2","backgroundColor":"rgba(220,120,120,.8)"
+    "data":[28,48,40,19,86,28,48,40,19,86],
+    "label":"App2","backgroundColor":"rgba(220,120,120,.6)"
    },
    {
-    "data":[10,15,25,45,80],
-    "label":"App3","backgroundColor":"rgba(220,120,120,.8)"
+    "data":[10,15,25,45,80,10,15,25,45,80],
+    "label":"App3","backgroundColor":"rgba(135,206,250,.6)"
    }
   ]
  }, 

@@ -100,12 +100,9 @@ application(s), service(s), build(s), test(s), environment(s), runtime(s), pipel
 
 ![](https://martinfowler.com/bliki/images/testPyramid/test-pyramid.png)
 
-[JUnit](https://junit.org)
-
-[Camunda BPMN Workflow Engine](https://camunda.com)
+[JUnit](https://junit.org) and [Camunda BPMN Workflow Engine](https://camunda.com)
 
 [Selenium](https://www.seleniumhq.org) and [TAF](https://github.com/baloise/test-automation-framework)
-
 
 ---?image=https://i.imgur.com/RVvnuO5.jpg&size=contain
 @title[snapshots]

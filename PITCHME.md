@@ -28,6 +28,7 @@ Software, Security & **Release Engineer** @ [Baloise](https://www.baloise.com)
 ## about/[galileo](https://www.guidewire.com/about-us/news-and-events/press-releases/20160912/basler-versicherung-extends-guidewire-products)
 
 +++?image=https://ak8.picdn.net/shutterstock/videos/15411808/thumb/2.jpg&size=contain
+@title[insights]
 
 large-scale enterprise project
 
@@ -113,6 +114,7 @@ under @color[darkgreen](version control)
 [github.com/dashboard-plus](https://github.com/baloise/dashboard-plus)
 
 +++?image=img/dashboard.png&size=contain
+@title[knowledge dashboard]
 
 ---
 
@@ -139,7 +141,7 @@ running in [Jenkins OSS](https://jenkins.io) pipelines
 ![](img/deployment.png)
 
 +++
-
+@title[test(s)]
 ![](img/testing.png)
 
 [JUnit](https://junit.org), [Camunda BPMN Workflow Engine](https://camunda.com) and [Selenium](https://www.seleniumhq.org)
@@ -222,7 +224,7 @@ future: [OpenShift](https://en.wikipedia.org/wiki/OpenShift)
 
 +++
 
-### @color[darkgreen](Artifact repositories)
+### @color[darkgreen](artifact repositories)
 
 @color[darkgreen](continuous SNAPSHOTs) on green (JUnit) build(s)
 
@@ -278,7 +280,7 @@ ACC is treated as PROD
 
 +++
 
-## @color[darkgreen](fast lane)
+## @color[darkgreen](fast lane)s
 
 ![](img/releases.png)
 

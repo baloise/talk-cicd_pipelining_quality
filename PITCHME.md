@@ -54,7 +54,7 @@ many in- and outbound services
 
 ## knowlegde
 
-+++?color=lightgreen
++++?color=lightblue
 
 ## reproducibility
 ### == pipelining
@@ -136,6 +136,19 @@ version controlled
 }
 -->
 </canvas>
+
++++?color=lightblue
+
+### (dust-)bin(ary) repositories
+mostly for (semi) temporary time frames: max. 4 weeks
+
+continuous SNAPSHOTs
+
+1 x nightly release candidate / application
+
+OSS Nexus 2 / 3
+
+
 
 ---
 

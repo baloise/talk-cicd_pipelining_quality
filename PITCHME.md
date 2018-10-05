@@ -70,7 +70,7 @@ high-level goal: __knowledge__
 
 **fix** forecast of goals: dates / content / quality
 
-+++?color=darkcoral
++++?color=darkred
 
 ## (un)known unknowns: @color[goldenrod](flexibility)
 
@@ -96,7 +96,7 @@ under @color[darkgreen](version control)
 
 ---?color=lightblue
 
-## @color[goldenrod](2. reproducibility)
+## @color[darkgreen](2. reproducibility)
 
 @color[darkgreen](**automation** is key)
 
@@ -207,7 +207,7 @@ future: [OpenShift](https://en.wikipedia.org/wiki/OpenShift)
 
 +++?color=lightblue
 
-### @color[goldenrod](4. artifact repositories)
+### @color[darkgreen](3. artifact repositories)
 mostly for (semi) temporary time frames: max. 4 weeks
 
 @color[darkgreen](continuous SNAPSHOTs)
@@ -220,11 +220,11 @@ all @color[darkgreen](release candidates == **RELEASE**)
 
 ---
 
-## de-couple
+## @color[darkgreen](4. de-coupling)
 
 ---
 
-## parallelize
+## @color[darkgreen](5. parallelization)
 
 branches
 stacks
@@ -233,7 +233,7 @@ deploys
 
 ---
 
-## sequentialize
+## @color[darkgreen](6. sequentialize)
 
 T -> I -> A -> P
 

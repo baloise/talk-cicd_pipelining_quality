@@ -88,22 +88,21 @@ unknown → known
 
 - knowledge tracking: digital
 - automate everything
-- freeze: snapshots, versioning
+- constant knowledge gain: fail fast & early
+- freeze / reproduce states: snapshots, versioning
 - deceleration: T → I → A → P
 - data: only PROD is PROD
 
 +++
 
 ## @color[goldenrod](flexibility)
-
-- gain knowledge: fail fast & early
 - allow alternatives: parallelization
 - be prepared: fastlane
 - be observant: monitoring
 
 ---
 
-## @color[darkgreen](knowledge tracking)
+## knowledge tracking
 
 everything @color[darkgreen](digital and connected)
 
@@ -115,7 +114,7 @@ under @color[darkgreen](version control)
 
 ---
 
-## @color[darkgreen](automate everything)
+## automate everything
 
 @color[darkgreen](**everything** as code)
 

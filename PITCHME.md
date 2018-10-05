@@ -190,7 +190,7 @@ mostly for (semi) temporary time frames: max. 4 weeks
 
 continuous SNAPSHOTs
 
-1 x nightly @color[darkgreen](long(er)-living SNAPSHOTs) / application
+1 x nightly @color[darkgreen](long-living SNAPSHOTs) / application
 
 all @color[darkgreen](release candidates == **RELEASE**)
 

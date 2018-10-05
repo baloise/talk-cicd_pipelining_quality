@@ -187,10 +187,10 @@ future: [OpenShift](https://en.wikipedia.org/wiki/OpenShift)
 
 +++?color=lightblue
 
-### @color[darkgreen](artifact repositories)
+### @color[goldenrod](artifact repositories)
 mostly for (semi) temporary time frames: max. 4 weeks
 
-continuous SNAPSHOTs
+@color[darkgreen](continuous SNAPSHOTs)
 
 1 x nightly @color[darkgreen](long-living SNAPSHOTs) / application
 

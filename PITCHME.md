@@ -57,6 +57,7 @@ many in- and outbound services
 +++?color=lightgreen
 
 ## reproducibility
+### == pipelining
 
 lessons learned
 
@@ -65,7 +66,9 @@ best practices & tools
 ---
 
 ## automate
-everything as code under version control
+everything as code
+
+version controled
 
 application(s), service(s), test(s), environment(s), runtime(s), pipeline(s), work- and data-flows
 

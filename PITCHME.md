@@ -66,11 +66,42 @@ best practices & tools
 ---
 
 ## automate
-everything as code
+everything* as code
 
-version controled
+version controlled
 
-application(s), service(s), test(s), environment(s), runtime(s), pipeline(s), work- and data-flows
+*application(s), service(s), test(s), environment(s), runtime(s), pipeline(s), work- and data-flows
+
+---
+
+### snapshots
+
++++
+
+<canvas data-chart="line">
+<!-- 
+{
+ "data": {
+  "labels": ["Monday"," Tuesday"," Wednesday"," Thursday"," Friday"],
+  "datasets": [
+   {
+    "data":[65,59,80,81,56],
+    "label":"App1","backgroundColor":"rgba(20,220,220,.8)"
+   },
+   {
+    "data":[28,48,40,19,86],
+    "label":"App2","backgroundColor":"rgba(220,120,120,.8)"
+   },
+   {
+    "data":[10,15,25,45,80],
+    "label":"App3","backgroundColor":"rgba(220,120,120,.8)"
+   }
+  ]
+ }, 
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
 
 ---
 
@@ -87,7 +118,7 @@ deploys
 
 ---
 
-## sequences
+## sequentialize
 
 T -> I -> A -> P
 

@@ -86,15 +86,15 @@ version controlled
   "datasets": [
    {
     "data":[0,15,25,35,45,55,65,75,85,100],
-    "label":"App1","backgroundColor":"rgba(20,220,220,.6)"
+    "label":"App1","backgroundColor":"rgba(20,220,220,1)"
    },
    {
     "data":[0,10,20,30,40,50,60,70,80,100],
-    "label":"App2","backgroundColor":"rgba(220,120,120,.6)"
+    "label":"App2","backgroundColor":"rgba(220,120,120,1)"
    },
    {
     "data":[0,5,15,25,35,45,55,65,75,100],
-    "label":"App3","backgroundColor":"rgba(135,206,250,.6)"
+    "label":"App3","backgroundColor":"rgba(135,206,250,1)"
    }
   ]
  }, 
@@ -113,15 +113,15 @@ version controlled
   "datasets": [
    {
     "data":[0,15,25,35,45,55,65,75,85,95],
-    "label":"App1","backgroundColor":"rgba(20,220,220,.6)"
+    "label":"App1","backgroundColor":"rgba(20,220,220,1)"
    },
    {
     "data":[0,10,20,30,40,50,60,70,80,90],
-    "label":"App2","backgroundColor":"rgba(220,120,120,.6)"
+    "label":"App2","backgroundColor":"rgba(220,120,120,1)"
    },
    {
     "data":[0,5,15,25,35,45,55,65,75,85],
-    "label":"App3","backgroundColor":"rgba(135,206,250,.6)"
+    "label":"App3","backgroundColor":"rgba(135,206,250,1)"
    }
   ]
  }, 

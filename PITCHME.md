@@ -234,7 +234,7 @@ time frame: max. 8 weeks
 
 all @color[darkgreen](release candidates == **RELEASE**)
 
-[Nexus Repository OSS](https://www.sonatype.com/nexus-repository-oss) 2 / 3
+[Nexus Repository OSS](https://www.sonatype.com/nexus-repository-oss)
 
 ---
 

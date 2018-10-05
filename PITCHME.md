@@ -21,7 +21,7 @@ Software, Security & Release Engineer @ [Baloise](https://www.baloise.com)
 
 ## about/[galileo](https://www.guidewire.com/about-us/news-and-events/press-releases/20160912/basler-versicherung-extends-guidewire-products)
 
-+++
++++?image=https://ak8.picdn.net/shutterstock/videos/15411808/thumb/2.jpg&size=contain
 
 ## insights
 large-scale insurance enterprise project

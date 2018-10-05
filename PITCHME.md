@@ -82,7 +82,7 @@ e.g. other dates / other content / quality++
 
 unknown → known
 
----?color=lightblue
+---
 
 ## @color[darkgreen](1. traceability)
 
@@ -94,7 +94,7 @@ under @color[darkgreen](version control)
 
 [git](https://git-scm.com)
 
----?color=lightblue
+---
 
 ## @color[darkgreen](2. reproducibility)
 
@@ -104,23 +104,17 @@ under @color[darkgreen](version control)
 
 application(s), service(s), build(s), test(s), environment(s), runtime(s)
 
-+++?color=lightblue
++++
 
-## application(s) & service(s)
+## application(s) & service(s) & build(s)
 
 [Java 8](https://www.java.com/de/download/) and [Jakarta EE](https://jakarta.ee)
-
-[Angular](https://angular.io)
-
-+++?color=lightblue
-
-## build(s)
 
 [gradle](https://gradle.org) and [maven](https://maven.apache.org)
 
 running in [Jenkins OSS](https://jenkins.io) pipelines
 
-+++?color=lightblue
++++
 
 ## test(s)
 
@@ -130,7 +124,7 @@ running in [Jenkins OSS](https://jenkins.io) pipelines
 
 [JUnit](https://junit.org) and [Camunda BPMN Workflow Engine](https://camunda.com)
 
-+++?color=lightblue
++++
 
 ## environment(s), runtime(s)
 
@@ -205,7 +199,7 @@ future: [OpenShift](https://en.wikipedia.org/wiki/OpenShift)
 -->
 </canvas>
 
-+++?color=lightblue
++++
 
 ### @color[darkgreen](3. artifact repositories)
 mostly for (semi) temporary time frames: max. 4 weeks

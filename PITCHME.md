@@ -108,11 +108,11 @@ application(s), service(s), build(s), test(s), environment(s), runtime(s), pipel
 
 ## environment(s), runtime(s)
 
-VMs, [RHEL](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux), [Liima](http://www.liima.org)
+VMs with [RHEL](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux) and [Liima](http://www.liima.org)
 
-[Ansible](https://www.ansible.com)
+using [Ansible](https://www.ansible.com)
 
-[OpenShift](https://en.wikipedia.org/wiki/OpenShift)
+future: [OpenShift](https://en.wikipedia.org/wiki/OpenShift)
 
 ---?image=https://i.imgur.com/RVvnuO5.jpg&size=contain
 @title[snapshots]

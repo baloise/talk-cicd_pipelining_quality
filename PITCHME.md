@@ -183,14 +183,14 @@ future: [OpenShift](https://en.wikipedia.org/wiki/OpenShift)
 
 +++?color=lightblue
 
-### (dust-)bin(ary) repositories
+### (dust-)@color[darkgreen](bin(ary) repositories)
 mostly for (semi) temporary time frames: max. 4 weeks
 
 continuous SNAPSHOTs
 
-1 x nightly long(er)-living SNAPSHOT / application
+1 x nightly @color[darkgreen](long(er)-living SNAPSHOTs) / application
 
-all RCs (release candidates) == **RELEASE**
+all @color[darkgreen](release candidates == **RELEASE**)
 
 [Nexus Repository OSS](https://www.sonatype.com/nexus-repository-oss) 2 / 3
 

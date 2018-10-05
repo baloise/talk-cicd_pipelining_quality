@@ -17,7 +17,7 @@ Software, Security & **Release Engineer** @ [Baloise](https://www.baloise.com)
 
 ## @color[goldenrod](2 lessons learned)
 
-@color[darkgreen](XX. best practices) & [YY. tools](https://en.wikipedia.org/wiki/Tool)
+@color[darkgreen](~10 best practices) & all (mostly OSS) [tools](https://en.wikipedia.org/wiki/Tool) we use
 
 +++?image=https://github.com/baloise/talk-cicd-javascript/raw/master/img/baloise-park.jpg&size=contain
 

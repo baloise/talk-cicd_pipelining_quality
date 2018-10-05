@@ -59,9 +59,9 @@ many in- and outbound services
 ## reproducibility
 ### == pipelining
 
-lessons learned
+@color[lightgreen](best practices) & [tools](https://en.wikipedia.org/wiki/Tool)
 
-best practices & tools
+lessons learned
 
 ---?color=lightblue
 

@@ -67,9 +67,13 @@ best practices & tools
 
 ## keep track
 
-all digital and connected: [Confluence ↔ JIRA](https://de.atlassian.com)
+all digital and connected
+
+[Confluence ↔ JIRA](https://de.atlassian.com)
  
-under version control: [git](https://git-scm.com)
+under version control
+
+[git](https://git-scm.com)
 
 ---
 

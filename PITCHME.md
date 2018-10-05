@@ -88,6 +88,8 @@ application(s), service(s), build(s), test(s), environment(s), runtime(s)
 
 [Java 8](https://www.java.com/de/download/) and [Jakarta EE](https://jakarta.ee)
 
+[Angular](https://angular.io)
+
 +++?color=lightblue
 
 ## build(s)

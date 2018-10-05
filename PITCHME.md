@@ -86,7 +86,7 @@ unknown → known
 
 ## @color[goldenrod](predictability)
 
-- knowledge tracking: digital
+- knowledge tracking: digital dashboard
 - automate everything
 - constant knowledge gain: fail fast & early
 - freeze / reproduce states: snapshots, versioning
@@ -102,7 +102,7 @@ unknown → known
 
 ---
 
-## knowledge tracking / dashboard
+## knowledge dashboard
 
 everything @color[darkgreen](digital and connected)
 

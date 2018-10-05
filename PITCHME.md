@@ -1,4 +1,4 @@
----?color=lightgreen
+---
 
 # Pipelining Quality
 
@@ -46,20 +46,11 @@ many in- and outbound services
 
 @color[white](30+ production releases per year)
 
-+++color=lightgreen @title[Text + Image Centered]
-
-@snap[west split-screen-byline text-white] Lorem ipsum
-sit dolor amet, consectetur elit. @snapend
-
-@snap[midpoint split-screen-img] DEVELOPER @snapend
-
-@snap[east split-screen-text text-black] Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. @snapend
-
----
+---?color=lightgreen
 
 ## quality
 
-+++
++++?color=lightred
 
 ## knowlegde
 

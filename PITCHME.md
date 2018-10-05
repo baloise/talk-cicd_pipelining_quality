@@ -148,8 +148,6 @@ using [Ansible](https://www.ansible.com)
 
 future: [OpenShift](https://en.wikipedia.org/wiki/OpenShift)
 
-+++?image=img/stacks.png&size=contain
-
 ---?image=https://i.imgur.com/RVvnuO5.jpg&size=contain
 
 ## @color[white](freeze states)
@@ -233,7 +231,7 @@ all @color[darkgreen](release candidates == **RELEASE**)
 
 ## @color[darkgreen](deceleration: T → I → A → P)
 
-![](img/releases.png)
+![](img/deceleration.png)
 
 MAJOR == MINOR == MICRO == HOTFIX
 
@@ -248,6 +246,12 @@ MAJOR == MINOR == MICRO == HOTFIX
 ## @color[darkgreen](parallelization)
 
 ![](img/branching.png)
+
++++?image=img/stacks.png&size=contain
+
++++
+
+![](img/releases.png)
 
 ---
 

@@ -134,13 +134,9 @@ running in [Jenkins OSS](https://jenkins.io) pipelines
 
 +++
 
-## test(s)
-
-[Selenium](https://www.seleniumhq.org)
-
 ![](img/testing.png)
 
-[JUnit](https://junit.org) and [Camunda BPMN Workflow Engine](https://camunda.com)
+[JUnit](https://junit.org), [Camunda BPMN Workflow Engine](https://camunda.com) and [Selenium](https://www.seleniumhq.org)
 
 +++
 

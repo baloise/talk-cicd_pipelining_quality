@@ -72,15 +72,12 @@ version controlled
 
 *application(s), service(s), test(s), environment(s), runtime(s), pipeline(s), work- and data-flows
 
----
-
-### snapshots
-
-![](https://i.imgur.com/RVvnuO5.jpg)
+---?image=https://i.imgur.com/RVvnuO5.jpg&size=contain
+@title[snapshots]
 
 +++
 
-### theory
+### sprint theory
 
 <canvas data-chart="line">
 <!-- 

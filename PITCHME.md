@@ -60,30 +60,17 @@ in- and outbound services
 
 highl-level goals: dates / content / quality
 
-+++
++++?color=lightgreen
 
 ## (un)known knowns: @color[goldenrod](predictability)
 **fix** forecast of goals
 
-+++
++++?color=lightcoral
 
 ## (un)known unknowns: @color[goldenrod](flexibility) 
 
 on knowledge gain: **variable** re-definition of goals
 unknown → known
-
----?color=lightgreen
-
-## quality
-
-+++?color=lightcoral
-
-## knowlegde
-
-+++?color=lightblue
-
-## @color[goldenrod](1. reproducibility)
-### == @color[darkgreen](pipelining)
 
 ---?color=lightblue
 
@@ -99,7 +86,7 @@ under @color[darkgreen](version control)
 
 ---?color=lightblue
 
-## @color[goldenrod](3. automate)
+## @color[goldenrod](2. reproducibility & automation)
 @color[darkgreen](**everything** as code)
 
 application(s), service(s), build(s), test(s), environment(s), runtime(s)

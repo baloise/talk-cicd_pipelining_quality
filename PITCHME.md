@@ -256,13 +256,13 @@ MAJOR (+123d) == MINOR (+123d) == MICRO (+1d) == HOTFIX (+3h)
 
 ## @color[darkgreen](parallelization)
 
-![](img/branching.png)
+![](img/releases.png)
 
 +++?image=img/stacks.png&size=contain
 
 +++
 
-![](img/releases.png)
+![](img/branching.png)
 
 ---
 

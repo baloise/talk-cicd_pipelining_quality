@@ -237,7 +237,7 @@ T: nightly → **+1** → I → **+2** → A → **+3** → P
 
 MAJOR == MINOR == MICRO == HOTFIX
 
----
++++
 
 ## @color[darkgreen](data: only PROD is PROD)
 

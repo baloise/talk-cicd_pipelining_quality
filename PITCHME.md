@@ -11,13 +11,13 @@
 
 [@MarkusTiede](https://twitter.com/markustiede)
 
-Software, Security & Release Engineer @ [Baloise](https://www.baloise.com)
+Software, Security & **Release Engineer** @ [Baloise](https://www.baloise.com)
 
 +++
 
-## @color[goldenrod](XX. lessons learned)
+## @color[goldenrod](2 lessons learned)
 
-@color[darkgreen](YY. best practices) & [ZZ. tools](https://en.wikipedia.org/wiki/Tool)
+@color[darkgreen](XX. best practices) & [YY. tools](https://en.wikipedia.org/wiki/Tool)
 
 +++?image=https://github.com/baloise/talk-cicd-javascript/raw/master/img/baloise-park.jpg&size=contain
 
@@ -51,6 +51,21 @@ in- and outbound services
 @color[white](~30 min / rollout)
 
 @color[white](30+ production releases per year)
+
+---
+
+## goals of release management 
+
+highl-level: dates / content / quality
+
+## (un)known knowns: @color[goldenrod](predictability)
+**fix** forecast of goals
+
+![](https://www.pmi.org/kasimage/10437c8a-9337-444f-8fa2-8f5318e93e71/p_1.jpg)
+
+## (un)known unknowns: @color[goldenrod](flexibility) on knowledge gain
+**variable** re-definition of goals
+unknown -> known
 
 ---?color=lightgreen
 

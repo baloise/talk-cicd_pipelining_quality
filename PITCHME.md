@@ -144,10 +144,11 @@ mostly for (semi) temporary time frames: max. 4 weeks
 
 continuous SNAPSHOTs
 
-1 x nightly release candidate / application
+1 x nightly long(er)-living SNAPSHOT / application
 
-OSS Nexus 2 / 3
+all *release* candidate(s) == RCs
 
+[Nexus Repository OSS](https://www.sonatype.com/nexus-repository-oss) 2 / 3
 
 
 ---

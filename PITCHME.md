@@ -234,7 +234,7 @@ all @color[darkgreen](release candidates == **RELEASE**)
 
 ![](img/deceleration.png)
 
-T: nightly → **+1d** → I → **+2d** → A → **+3d** → P
+nightly: T → **+1d** → I → **+2d** → A → **+3d** → P
 
 +++
 
@@ -242,9 +242,9 @@ T: nightly → **+1d** → I → **+2d** → A → **+3d** → P
 
 ![](img/release-classifications.png)
 
-epics == user stories == bugs == blocking bugs
+epics, user stories and (blocking) bugs get identical treatment
 
-MAJOR (+123d) == MINOR (+123d) == MICRO (+1d) == HOTFIX (+3h)
+MAJOR (+123d) == MINOR (+123d) == MICRO (+1d) == HOTFIX (+4h)
 
 +++
 

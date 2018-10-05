@@ -132,6 +132,10 @@ application(s), build(s), test(s), environment(s), runtime(s)
 
 running in [Jenkins OSS](https://jenkins.io) pipelines
 
+## de-coupled build and deploys
+
+![](img/deployment.png)
+
 +++
 
 ![](img/testing.png)

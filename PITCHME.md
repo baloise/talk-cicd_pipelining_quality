@@ -36,7 +36,7 @@ many in- and outbound services
 +++?image=https://upload.wikimedia.org/wikipedia/commons/4/43/Angry_elephant_ears.jpg&size=contain
 
 ## @color[white](some #numbers)
-@color[white](JBoss cluster of 4 * [2 + 1] nodes)
+@color[white](Cluster of 4 * [2 + 1] nodes)
 
 @color[white](~150 GB RAM / cluster)
 
@@ -65,20 +65,20 @@ many in- and outbound services
 
 ---?color=lightblue
 
-## keep track
+## @color[goldenrod](keep track)
 
-all digital and connected
+all @color[darkgreen](digital and connected)
 
 [Confluence ↔ JIRA](https://de.atlassian.com)
  
-under version control
+under @color[darkgreen](version control)
 
 [git](https://git-scm.com)
 
 ---?color=lightblue
 
-## automate
-**everything** as code
+## @color[goldenrod](automate)
+@color[darkgreen](**everything** as code)
 
 application(s), service(s), build(s), test(s), environment(s), runtime(s)
 

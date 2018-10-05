@@ -142,6 +142,8 @@ running in [Jenkins OSS](https://jenkins.io) pipelines
 
 [JUnit](https://junit.org) and [Camunda BPMN Workflow Engine](https://camunda.com)
 
++++?image=img/testing.png&size=contain
+
 +++
 
 ## environment(s), runtime(s)

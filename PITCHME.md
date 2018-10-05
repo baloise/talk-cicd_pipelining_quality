@@ -112,6 +112,8 @@ under @color[darkgreen](version control)
 
 [git](https://git-scm.com)
 
++++?image=img/dashboard.png&size=contain
+
 ---
 
 ## automate everything

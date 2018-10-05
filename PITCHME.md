@@ -13,6 +13,12 @@
 
 Software, Security & Release Engineer @ [Baloise](https://www.baloise.com)
 
++++
+
+## @color[goldenrod](lessons learned)
+
+@color[darkgreen](best practices) & [tools](https://en.wikipedia.org/wiki/Tool)
+
 +++?image=https://github.com/baloise/talk-cicd-javascript/raw/master/img/baloise-park.jpg&size=contain
 
 ## @color[white](about/[baloise](https://www.baloise.com))
@@ -58,10 +64,6 @@ many in- and outbound services
 
 ## @color[goldenrod](reproducibility)
 ### == @color[darkgreen](pipelining)
-
-@color[goldenrod](lessons learned)
-
-@color[darkgreen](best practices) & [tools](https://en.wikipedia.org/wiki/Tool)
 
 ---?color=lightblue
 

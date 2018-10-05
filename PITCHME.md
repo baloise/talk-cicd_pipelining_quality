@@ -270,6 +270,8 @@ ACC is treated as PROD
 
 ![](img/stacks.png)
 
++++
+
 ## @color[darkgreen](parallelization: data)
 
 ![](img/dataflow.png)

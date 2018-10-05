@@ -110,7 +110,7 @@ running in [Jenkins OSS](https://jenkins.io) pipelines
 
 ## environment(s), runtime(s)
 
-VMs with [RHEL](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux) and [Liima](http://www.liima.org)
+[VM](https://en.wikipedia.org/wiki/Virtual_machine)s with [RHEL](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux) and [Liima](http://www.liima.org)
 
 using [Ansible](https://www.ansible.com)
 

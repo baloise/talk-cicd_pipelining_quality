@@ -152,7 +152,7 @@ future: [OpenShift](https://en.wikipedia.org/wiki/OpenShift)
 
 ---?image=https://i.imgur.com/RVvnuO5.jpg&size=contain
 
-## @color[white](freeze / reproduce states)
+## @color[white](freeze states)
 
 +++
 
@@ -218,7 +218,7 @@ future: [OpenShift](https://en.wikipedia.org/wiki/OpenShift)
 
 +++
 
-### @color[darkgreen](3. artifact repositories)
+### @color[darkgreen](Artifact repositories)
 mostly for (semi) temporary time frames: max. 4 weeks
 
 @color[darkgreen](continuous SNAPSHOTs)

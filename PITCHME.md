@@ -284,6 +284,8 @@ ACC is treated as PROD
 
 +++
 
+## @color[darkgreen]((in)dependent branching / merging)
+
 ![](img/branching.png)
 
 ---

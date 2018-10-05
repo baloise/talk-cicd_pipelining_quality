@@ -76,9 +76,9 @@ version controlled
 
 ### snapshots
 
-
-
 +++
+
+### theory
 
 <canvas data-chart="line">
 <!-- 
@@ -106,6 +106,8 @@ version controlled
 </canvas>
 
 +++
+
+### real world
 
 <canvas data-chart="line">
 <!-- 

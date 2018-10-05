@@ -136,13 +136,11 @@ running in [Jenkins OSS](https://jenkins.io) pipelines
 
 ## test(s)
 
-[Selenium](https://www.seleniumhq.org) and [TAF](https://github.com/baloise/test-automation-framework)
+[Selenium](https://www.seleniumhq.org)
 
-![](https://martinfowler.com/bliki/images/testPyramid/test-pyramid.png)
+![](img/testing.png)
 
 [JUnit](https://junit.org) and [Camunda BPMN Workflow Engine](https://camunda.com)
-
-+++?image=img/testing.png&size=contain
 
 +++
 

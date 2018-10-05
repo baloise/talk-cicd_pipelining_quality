@@ -55,11 +55,11 @@ in- and outbound services
 ---
 
 ## release management 
-### highl-level goals
+### high-level goal - knowledge
 
-1. dates
-2. content 
-3. quality
+1. dates: code-freeze, going-live
+2. content: fixes, features, epics
+3. quality: results, coverages, ++
 
 +++?color=lightgreen
 

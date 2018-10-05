@@ -233,6 +233,8 @@ all @color[darkgreen](release candidates == **RELEASE**)
 
 ![](img/deceleration.png)
 
+T: nightly → **+1** → I → **+2** → A → **+3** → P
+
 MAJOR == MINOR == MICRO == HOTFIX
 
 ---

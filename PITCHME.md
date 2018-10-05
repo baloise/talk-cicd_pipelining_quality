@@ -151,7 +151,8 @@ using [Ansible](https://www.ansible.com)
 future: [OpenShift](https://en.wikipedia.org/wiki/OpenShift)
 
 ---?image=https://i.imgur.com/RVvnuO5.jpg&size=contain
-@title[snapshots]
+
+## @color[white](freeze / reproduce states)
 
 +++
 

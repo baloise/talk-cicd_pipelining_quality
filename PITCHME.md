@@ -146,7 +146,7 @@ continuous SNAPSHOTs
 
 1 x nightly long(er)-living SNAPSHOT / application
 
-all *release* candidate(s) == RCs
+all RCs (release candidates) == **release**
 
 [Nexus Repository OSS](https://www.sonatype.com/nexus-repository-oss) 2 / 3
 

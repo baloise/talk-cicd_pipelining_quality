@@ -80,7 +80,7 @@ under version control
 ## automate
 **everything** as code
 
-application(s), service(s), build(s), test(s), environment(s), runtime(s), pipeline(s), work- and data-flows
+application(s), service(s), build(s), test(s), environment(s), runtime(s)
 
 +++?color=lightblue
 
@@ -93,6 +93,8 @@ application(s), service(s), build(s), test(s), environment(s), runtime(s), pipel
 ## build(s)
 
 [gradle](https://gradle.org) and [maven](https://maven.apache.org)
+
+running in [Jenkins OSS](https://jenkins.io) pipelines
 
 +++?color=lightblue
 

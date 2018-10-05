@@ -72,12 +72,11 @@ version controlled
 
 *application(s), service(s), test(s), environment(s), runtime(s), pipeline(s), work- and data-flows
 
----?image=https://i.imgur.com/RVvnuO5.jpg&size=contain
-@transition[none]
+---
 
-@snap[north]
-### @color[white](snapshots)
-@snapend
+### snapshots
+
+![](https://i.imgur.com/RVvnuO5.jpg)
 
 +++
 

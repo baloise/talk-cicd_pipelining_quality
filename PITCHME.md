@@ -252,6 +252,10 @@ MAJOR (+123d) == MINOR (+123d) == MICRO (+1d) == HOTFIX (+3h)
 
 ![](img/dataflow-acc.png)
 
+3 times a year ACC becomes PROD
+
+ACC is treated as PROD
+
 ---
 
 ## @color[darkgreen](parallelization)

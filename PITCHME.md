@@ -266,9 +266,13 @@ ACC is treated as PROD
 
 ---
 
-## @color[darkgreen](parallelization)
+## @color[darkgreen](parallelization: artifacts)
 
 ![](img/stacks.png)
+
+## @color[darkgreen](parallelization: data)
+
+![](img/dataflow.png)
 
 +++
 

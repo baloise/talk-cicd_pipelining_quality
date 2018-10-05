@@ -58,10 +58,12 @@ in- and outbound services
 
 highl-level: dates / content / quality
 
+![](https://www.pmi.org/kasimage/10437c8a-9337-444f-8fa2-8f5318e93e71/p_1.jpg)
+
+---
+
 ## (un)known knowns: @color[goldenrod](predictability)
 **fix** forecast of goals
-
-![](https://www.pmi.org/kasimage/10437c8a-9337-444f-8fa2-8f5318e93e71/p_1.jpg)
 
 ## (un)known unknowns: @color[goldenrod](flexibility) on knowledge gain
 **variable** re-definition of goals

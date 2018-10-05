@@ -56,9 +56,9 @@ in- and outbound services
 
 ## release management 
 
-highl-level goals: dates / content / quality
-
 ![](https://www.pmi.org/kasimage/10437c8a-9337-444f-8fa2-8f5318e93e71/p_1.jpg)
+
+highl-level goals: dates / content / quality
 
 +++
 
@@ -67,9 +67,10 @@ highl-level goals: dates / content / quality
 
 +++
 
-## (un)known unknowns: @color[goldenrod](flexibility) on knowledge gain
-**variable** re-definition of goals
-unknown -> known
+## (un)known unknowns: @color[goldenrod](flexibility) 
+
+on knowledge gain: **variable** re-definition of goals
+unknown → known
 
 ---?color=lightgreen
 

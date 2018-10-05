@@ -76,6 +76,8 @@ version controlled
 
 ### snapshots
 
+
+
 +++
 
 <canvas data-chart="line">
@@ -86,15 +88,15 @@ version controlled
   "datasets": [
    {
     "data":[0,15,25,35,45,55,65,75,85,100],
-    "label":"App1","borderColor":"rgba(20,220,220,1)"
+    "label":"team 1","borderColor":"rgba(20,220,220,1)"
    },
    {
     "data":[0,10,20,30,40,50,60,70,80,100],
-    "label":"App2","borderColor":"rgba(220,120,120,1)"
+    "label":"team 2","borderColor":"rgba(220,120,120,1)"
    },
    {
     "data":[0,5,15,25,35,45,55,65,75,100],
-    "label":"App3","borderColor":"rgba(135,206,250,1)"
+    "label":"team 3","borderColor":"rgba(135,206,250,1)"
    }
   ]
  }, 
@@ -113,15 +115,15 @@ version controlled
   "datasets": [
    {
     "data":[0,15,25,25,20,40,55,50,65,60],
-    "label":"App1","borderColor":"rgba(20,220,220,1)"
+    "label":"team 1","borderColor":"rgba(20,220,220,1)"
    },
    {
     "data":[0,35,20,30,45,55,60,75,70,75],
-    "label":"App2","borderColor":"rgba(220,120,120,1)"
+    "label":"team 2","borderColor":"rgba(220,120,120,1)"
    },
    {
     "data":[0,5,15,20,30,35,45,55,60,70],
-    "label":"App3","borderColor":"rgba(135,206,250,1)"
+    "label":"team 3","borderColor":"rgba(135,206,250,1)"
    }
   ]
  }, 

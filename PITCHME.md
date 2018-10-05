@@ -74,7 +74,9 @@ version controlled
 
 ---?image=https://i.imgur.com/RVvnuO5.jpg&size=contain
 
+@snap[north]
 ### @color[white](snapshots)
+@snapend
 
 +++
 

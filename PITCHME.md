@@ -50,7 +50,7 @@ many in- and outbound services
 
 ## quality
 
-+++?color=lightred
++++?color=lightcoral
 
 ## knowlegde
 

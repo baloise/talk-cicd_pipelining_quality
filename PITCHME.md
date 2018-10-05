@@ -56,8 +56,8 @@ many in- and outbound services
 
 +++?color=lightblue
 
-## reproducibility
-### == pipelining
+## @color[goldenrod](reproducibility)
+### == @color[darkgreen](pipelining)
 
 @color[goldenrod](lessons learned)
 
@@ -183,7 +183,7 @@ future: [OpenShift](https://en.wikipedia.org/wiki/OpenShift)
 
 +++?color=lightblue
 
-### (dust-)@color[darkgreen](bin(ary) repositories)
+### @color[darkgreen](artifact repositories)
 mostly for (semi) temporary time frames: max. 4 weeks
 
 continuous SNAPSHOTs

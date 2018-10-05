@@ -75,14 +75,37 @@ under version control
 
 [git](https://git-scm.com)
 
----
+---?color=lightblue
 
 ## automate
 **everything** as code
 
-application(s), service(s), test(s), environment(s), runtime(s), pipeline(s), work- and data-flows
+application(s), service(s), build(s), test(s), environment(s), runtime(s), pipeline(s), work- and data-flows
 
-+++
++++?color=lightblue
+
+## application(s) & service(s)
+
+[Java 8](https://www.java.com/de/download/) and [Jakarta EE](https://jakarta.ee)
+
++++?color=lightblue
+
+## build(s)
+
+[gradle](https://gradle.org) and [maven](https://maven.apache.org)
+
++++?color=lightblue
+
+## test(s)
+
+![](https://martinfowler.com/bliki/images/testPyramid/test-pyramid.png)
+
+[JUnit](https://junit.org)
+
+[Camunda BPMN Workflow Engine](https://camunda.com)
+
+[Selenium](https://www.seleniumhq.org) and [TAF](https://github.com/baloise/test-automation-framework)
+
 
 ---?image=https://i.imgur.com/RVvnuO5.jpg&size=contain
 @title[snapshots]

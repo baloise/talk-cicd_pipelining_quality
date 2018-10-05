@@ -102,15 +102,15 @@ unknown → known
 
 ---
 
-## knowledge tracking
+## knowledge tracking / dashboard
 
 everything @color[darkgreen](digital and connected)
 
-[Confluence ↔ JIRA](https://de.atlassian.com)
+[Confluence ↔ JIRA](https://de.atlassian.com)↔ [git](https://git-scm.com) ↔ environments ↔ deployments ↔ tests
  
 under @color[darkgreen](version control)
 
-[git](https://git-scm.com)
+[github.com/dashboard-plus](https://github.com/baloise/dashboard-plus)
 
 +++?image=img/dashboard.png&size=contain
 

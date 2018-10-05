@@ -63,14 +63,22 @@ lessons learned
 
 best practices & tools
 
+---?color=lightblue
+
+## keep track
+
+all digital: [Confluence <-> JIRA](https://de.atlassian.com)
+ 
+under distributed version control: [git](https://git-scm.com)
+
 ---
 
 ## automate
-everything* as code
+**everything** as code
 
-version controlled
+application(s), service(s), test(s), environment(s), runtime(s), pipeline(s), work- and data-flows
 
-*application(s), service(s), test(s), environment(s), runtime(s), pipeline(s), work- and data-flows
++++
 
 ---?image=https://i.imgur.com/RVvnuO5.jpg&size=contain
 @title[snapshots]

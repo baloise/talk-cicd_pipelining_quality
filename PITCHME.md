@@ -84,7 +84,7 @@ unknown → known
 
 ---?color=lightblue
 
-## @color[goldenrod](2. keep track)
+## @color[darkgreen](1. traceability)
 
 all @color[darkgreen](digital and connected)
 
@@ -96,7 +96,10 @@ under @color[darkgreen](version control)
 
 ---?color=lightblue
 
-## @color[goldenrod](2. reproducibility & automation)
+## @color[goldenrod](2. reproducibility)
+
+@color[darkgreen](**automation** is key)
+
 @color[darkgreen](**everything** as code)
 
 application(s), service(s), build(s), test(s), environment(s), runtime(s)

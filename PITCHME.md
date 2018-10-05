@@ -248,7 +248,9 @@ nightly: T → **+1d** → I → **+2d** → A → **+3d** → P
 
 ![](img/release-classifications.png)
 
-epics, user stories and (blocking) bugs get identical treatment
+epics, user stories and (blocking) bugs
+
+identical treatment
 
 MAJOR (+123d) == MINOR (+123d) == MICRO (+1d) == HOTFIX (+4h)
 

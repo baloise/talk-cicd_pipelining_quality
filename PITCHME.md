@@ -104,6 +104,16 @@ application(s), service(s), build(s), test(s), environment(s), runtime(s), pipel
 
 [JUnit](https://junit.org) and [Camunda BPMN Workflow Engine](https://camunda.com)
 
++++?color=lightblue
+
+## environment(s), runtime(s)
+
+VMs, [RHEL](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux), [Liima](http://www.liima.org)
+
+[Ansible](https://www.ansible.com)
+
+[OpenShift](https://en.wikipedia.org/wiki/OpenShift)
+
 ---?image=https://i.imgur.com/RVvnuO5.jpg&size=contain
 @title[snapshots]
 

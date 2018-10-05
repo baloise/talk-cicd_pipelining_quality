@@ -15,9 +15,9 @@ Software, Security & Release Engineer @ [Baloise](https://www.baloise.com)
 
 +++
 
-## @color[goldenrod](lessons learned)
+## @color[goldenrod](XX. lessons learned)
 
-@color[darkgreen](best practices) & [tools](https://en.wikipedia.org/wiki/Tool)
+@color[darkgreen](YY. best practices) & [ZZ. tools](https://en.wikipedia.org/wiki/Tool)
 
 +++?image=https://github.com/baloise/talk-cicd-javascript/raw/master/img/baloise-park.jpg&size=contain
 
@@ -29,15 +29,15 @@ Software, Security & Release Engineer @ [Baloise](https://www.baloise.com)
 
 +++?image=https://ak8.picdn.net/shutterstock/videos/15411808/thumb/2.jpg&size=contain
 
-large-scale insurance enterprise project
+large-scale enterprise project
 
-1.3k parallel internal sessions / day
+1.3k parallel sessions / day
 
-4 products: PolicyCenter, BillingCenter, ContactManager and end-user portal solution(s)
+4+ products
 
-many in- and outbound services
+in- and outbound services
 
-8 Scrum teams work in parallel in 2 week sprints
+8 Scrum teams work in parallel
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/4/43/Angry_elephant_ears.jpg&size=contain
 
@@ -62,12 +62,12 @@ many in- and outbound services
 
 +++?color=lightblue
 
-## @color[goldenrod](reproducibility)
+## @color[goldenrod](1. reproducibility)
 ### == @color[darkgreen](pipelining)
 
 ---?color=lightblue
 
-## @color[goldenrod](keep track)
+## @color[goldenrod](2. keep track)
 
 all @color[darkgreen](digital and connected)
 
@@ -79,7 +79,7 @@ under @color[darkgreen](version control)
 
 ---?color=lightblue
 
-## @color[goldenrod](automate)
+## @color[goldenrod](3. automate)
 @color[darkgreen](**everything** as code)
 
 application(s), service(s), build(s), test(s), environment(s), runtime(s)
@@ -187,7 +187,7 @@ future: [OpenShift](https://en.wikipedia.org/wiki/OpenShift)
 
 +++?color=lightblue
 
-### @color[goldenrod](artifact repositories)
+### @color[goldenrod](4. artifact repositories)
 mostly for (semi) temporary time frames: max. 4 weeks
 
 @color[darkgreen](continuous SNAPSHOTs)

@@ -239,15 +239,15 @@ MAJOR == MINOR == MICRO == HOTFIX
 
 ---
 
-## @color[darkgreen](parallelization)
-
-![](img/branching.png)
-
----
-
 ## @color[darkgreen](data: only PROD is PROD)
 
 ![](img/dataflow-acc.png)
+
+---
+
+## @color[darkgreen](parallelization)
+
+![](img/branching.png)
 
 ---
 

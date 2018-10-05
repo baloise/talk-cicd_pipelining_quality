@@ -217,11 +217,12 @@ future: [OpenShift](https://en.wikipedia.org/wiki/OpenShift)
 +++
 
 ### @color[darkgreen](Artifact repositories)
-mostly for (semi) temporary time frames: max. 4 weeks
 
 @color[darkgreen](continuous SNAPSHOTs)
 
-1 x nightly @color[darkgreen](long-living SNAPSHOTs) / application
+1 x nightly @color[darkgreen](semi-permanent SNAPSHOTs) / application
+
+time frame: max. 8 weeks
 
 all @color[darkgreen](release candidates == **RELEASE**)
 
@@ -233,9 +234,9 @@ all @color[darkgreen](release candidates == **RELEASE**)
 
 ![](img/deceleration.png)
 
-T: nightly → **+1** → I → **+2** → A → **+3** → P
+T: nightly → **+1d** → I → **+2d** → A → **+3d** → P
 
-MAJOR == MINOR == MICRO == HOTFIX
+MAJOR (+123d) == MINOR (+123d) == MICRO (+1d) == HOTFIX (+3h)
 
 +++
 

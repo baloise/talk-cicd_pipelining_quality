@@ -23,7 +23,6 @@ Software, Security & Release Engineer @ [Baloise](https://www.baloise.com)
 
 +++?image=https://ak8.picdn.net/shutterstock/videos/15411808/thumb/2.jpg&size=contain
 
-## insights
 large-scale insurance enterprise project
 
 1.3k parallel internal sessions / day

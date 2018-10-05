@@ -231,34 +231,23 @@ all @color[darkgreen](release candidates == **RELEASE**)
 
 ---
 
-## @color[darkgreen](4. de-coupling)
+## @color[darkgreen](deceleration: T → I → A → P)
 
----
-
-## @color[darkgreen](5. parallelization)
-
-branches
-stacks
-builds
-deploys
-
----
-
-## @color[darkgreen](6. sequentialize)
-
-T -> I -> A -> P
-
-batches
-
----
-
-## no exceptions
+![](img/releases.png)
 
 MAJOR == MINOR == MICRO == HOTFIX
 
 ---
 
+## @color[darkgreen](5. parallelization)
+
+![](img/branching.png)
+
+---
+
 ## golden data / master
+
+![](img/dataflow.png)
 
 ---
 

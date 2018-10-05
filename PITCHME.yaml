@@ -1,3 +1,4 @@
 theme-override : PITCHME.css
+charts : true
 
 footnote : "Basler Versicherungen AG, @MarkusTiede"

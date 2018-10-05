@@ -55,11 +55,11 @@ in- and outbound services
 ---
 
 ## release management 
-### high-level goal - knowledge
+### high-level goal: __knowledge__
 
 1. dates: code-freeze, going-live
 2. content: fixes, features, epics
-3. quality: results, coverages, ++
+3. quality: results, coverages
 
 +++?color=lightgreen
 
@@ -67,7 +67,7 @@ in- and outbound services
 
 ![](https://www.pmi.org/kasimage/10437c8a-9337-444f-8fa2-8f5318e93e71/p_1.jpg)
 
-**fix** forecast of goals
+**fix** forecast of goals: dates / content / quality
 
 +++?color=lightcoral
 
@@ -76,6 +76,9 @@ in- and outbound services
 ![](https://www.pmi.org/kasimage/10437c8a-9337-444f-8fa2-8f5318e93e71/p_1.jpg)
 
 on knowledge gain: **variable** re-definition of goals
+
+e.g. other dates / other content / quality++
+
 unknown → known
 
 ---?color=lightblue

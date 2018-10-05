@@ -70,7 +70,7 @@ high-level goal: __knowledge__
 
 **fix** forecast of goals: dates / content / quality
 
-+++?color=lightcoral
++++?color=darkcoral
 
 ## (un)known unknowns: @color[goldenrod](flexibility)
 
@@ -86,7 +86,7 @@ unknown → known
 
 ## @color[darkgreen](1. traceability)
 
-all @color[darkgreen](digital and connected)
+everything @color[darkgreen](digital and connected)
 
 [Confluence ↔ JIRA](https://de.atlassian.com)
  

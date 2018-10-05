@@ -260,13 +260,13 @@ ACC is treated as PROD
 
 ## @color[darkgreen](parallelization)
 
-![](img/releases.png)
+![](img/stacks.png)
 
 +++
 
 ## @color[darkgreen](fast lane)
 
-![](img/stacks.png)
+![](img/releases.png)
 
 +++
 

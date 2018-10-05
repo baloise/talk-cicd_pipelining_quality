@@ -239,15 +239,15 @@ MAJOR == MINOR == MICRO == HOTFIX
 
 ---
 
-## @color[darkgreen](5. parallelization)
+## @color[darkgreen](parallelization)
 
 ![](img/branching.png)
 
 ---
 
-## golden data / master
+## @color[darkgreen](data: only PROD is PROD)
 
-![](img/dataflow.png)
+![](img/dataflow-acc.png)
 
 ---
 

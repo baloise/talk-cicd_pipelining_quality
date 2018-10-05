@@ -262,7 +262,9 @@ ACC is treated as PROD
 
 ![](img/releases.png)
 
-+++?image=img/stacks.png&size=contain
+## @color[darkgreen](fast lane)
+
+![](image=img/stacks.png)
 
 +++
 

@@ -236,6 +236,14 @@ all @color[darkgreen](release candidates == **RELEASE**)
 
 T: nightly → **+1d** → I → **+2d** → A → **+3d** → P
 
++++
+
+## release classes
+
+![](img/release-classifications.png)
+
+epics == user stories == bugs == blocking bugs
+
 MAJOR (+123d) == MINOR (+123d) == MICRO (+1d) == HOTFIX (+3h)
 
 +++

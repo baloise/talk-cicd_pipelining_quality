@@ -154,6 +154,8 @@ using [Ansible](https://www.ansible.com)
 
 future: [OpenShift](https://en.wikipedia.org/wiki/OpenShift)
 
++++?image=img/stacks.png&size=contain
+
 ---?image=https://i.imgur.com/RVvnuO5.jpg&size=contain
 
 ## @color[white](freeze states)

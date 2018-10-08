@@ -246,6 +246,16 @@ all @color[darkgreen](release candidates == **RELEASE**)
 
 +++
 
+dedicated people / teams for releng
+
+releng-repo for cross-app scripted pipelines used in CI/CD
+
+Jenkins: Shared Libraries
+
+[jenkinsci/JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit)
+
++++
+
 ## @color[darkgreen](deceleration: T → I → A → P)
 
 ![](img/deceleration.png)

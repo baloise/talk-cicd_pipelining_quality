@@ -328,7 +328,13 @@ ACC is treated as PROD
 
 ## knowledge (graphs)
 
----
+---?image=http://ludwinedekker.com/wp-content/uploads/2017/08/brain-2029391_1280-1200x1076.png&size=contain
+
+## automation knowledge is key
+
+[github.com/baloise/talk-cicd_pipelining_quality](https://github.com/baloise/talk-cicd_pipelining_quality)
+
++++
 
 # Thanks! 
 ## Q&A?

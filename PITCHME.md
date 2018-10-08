@@ -99,7 +99,7 @@ unknown → known
 +++
 
 ## @color[goldenrod](flexibility)
-- allow alternatives: parallelization
+- embrace alternatives: parallelization
 - be prepared: fastlane
 - be observant: monitoring
 
@@ -294,6 +294,12 @@ ACC is treated as PROD
 
 +++
 
+## @color[darkgreen](fast lane)s
+
+![](img/releases.png)
+
++++
+
 ## @color[darkgreen](artifacts / stacks)
 
 ![](img/stacks.png)
@@ -303,12 +309,6 @@ ACC is treated as PROD
 ## @color[darkgreen](data)
 
 ![](img/dataflow.png)
-
-+++
-
-## @color[darkgreen](fast lane)s
-
-![](img/releases.png)
 
 +++
 

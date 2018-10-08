@@ -87,12 +87,14 @@ unknown → known
 
 ## @color[goldenrod](predictability)
 
-- knowledge tracking: digital dashboard
+- knowledge (tracking): digital dashboard
 - automate everything
 - constant knowledge gain: fail fast & early
 - freeze / reproduce states: snapshots, versioning
+- dedicated releng
 - deceleration: T → I → A → P
 - data: only PROD is PROD
+- batching
 
 +++
 
@@ -116,7 +118,7 @@ under @color[darkgreen](version control)
 +++?image=img/dashboard.png&size=contain
 @title[knowledge dashboard]
 
----
+---?image=https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg&size=contain
 
 ## automate everything
 

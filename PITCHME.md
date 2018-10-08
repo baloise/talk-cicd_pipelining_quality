@@ -286,19 +286,21 @@ MAJOR (+123d) == MINOR (+123d) == MICRO (+1d) == HOTFIX (+4h)
 
 ACC is treated as PROD
 
----?image=https://blog.seibert-media.net/wp-content/uploads/2015/07/Git-Merging.png&size=contain
+---?image=https://www.grund-wissen.de/mathematik/_images/abstand-parallele-geraden.png&size=contain
+
++++?image=https://blog.seibert-media.net/wp-content/uploads/2015/07/Git-Merging.png&size=contain
 
 [Jenkinsfile](https://jenkins.io/doc/book/pipeline/jenkinsfile/) and [Pipeline Multibranch Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Multibranch+Plugin)
 
 +++
 
-## @color[darkgreen](parallelization: artifacts / stacks)
+## @color[darkgreen](artifacts / stacks)
 
 ![](img/stacks.png)
 
 +++
 
-## @color[darkgreen](parallelization: data)
+## @color[darkgreen](data)
 
 ![](img/dataflow.png)
 

@@ -134,7 +134,9 @@ application(s), build(s), deploy(s), rollout(s), test(s), environment(s), runtim
 
 [gradle](https://gradle.org) and [maven](https://maven.apache.org)
 
-running in [Jenkins OSS](https://jenkins.io) pipelines
+running independently in [Jenkins OSS](https://jenkins.io) pipelines
+
+publish artifacts 
 
 +++
 
@@ -276,7 +278,7 @@ ACC is treated as PROD
 
 ---
 
-## @color[darkgreen](parallelization: artifacts)
+## @color[darkgreen](parallelization: artifacts / stacks)
 
 ![](img/stacks.png)
 
@@ -304,7 +306,7 @@ ACC is treated as PROD
 
 ---
 
-## monitor
+## monitoring
 
 +++
 

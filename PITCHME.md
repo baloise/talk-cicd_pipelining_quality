@@ -300,7 +300,7 @@ ACC is treated as PROD
 
 ---?image=https://res.cloudinary.com/teepublic/image/private/s--K35E_lTm--/t_Preview/b_rgb:c8e0ec,c_limit,f_jpg,h_630,q_90,w_630/v1478503582/production/designs/790282_1.jpg&size=contain
 
-## @color[white](batching)
+## @color[darkgreen](batch)@color[white](ing)
 
 ---
 

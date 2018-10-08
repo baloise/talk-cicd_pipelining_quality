@@ -236,11 +236,17 @@ all @color[darkgreen](release candidates == **RELEASE**)
 
 [Nexus Repository OSS](https://www.sonatype.com/nexus-repository-oss)
 
----
+---?image=https://www.uschamber.com/sites/default/files/styles/article_gallery/public/articles/images/bloomberg_pipelines_cushing_1600px.jpg&size=contain
+
+## @color[white](dedicated releng)
+
++++
 
 ## @color[darkgreen](deceleration: T → I → A → P)
 
 ![](img/deceleration.png)
+
+RCs: **r**elease **c**andidate(s) - dedicated code freeze dates
 
 nightly: T → **+1d** → I → **+2d** → A → **+3d** → P
 
@@ -289,6 +295,10 @@ ACC is treated as PROD
 ## @color[darkgreen](in- / dependent branching / merging)
 
 ![](img/branching.png)
+
+---?image=https://res.cloudinary.com/teepublic/image/private/s--K35E_lTm--/t_Preview/b_rgb:c8e0ec,c_limit,f_jpg,h_630,q_90,w_630/v1478503582/production/designs/790282_1.jpg&size=contain
+
+## @color[white](batching)
 
 ---
 

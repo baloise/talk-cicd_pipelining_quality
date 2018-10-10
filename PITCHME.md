@@ -1,8 +1,6 @@
----
+---?image=img/conference-background.png&size=contain
 
 # Pipelining Quality
-
-[BaselOne](https://baselone.ch) - 16.10.2018
 
 ---
 @title[about]

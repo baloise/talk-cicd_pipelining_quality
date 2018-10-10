@@ -1,6 +1,7 @@
 ---?image=img/conference-background.png&size=contain
-
+@snap[north]
 # Pipelining Quality
+@snapend
 
 ---
 @title[about]

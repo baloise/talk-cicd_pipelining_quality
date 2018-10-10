@@ -316,10 +316,6 @@ ACC == PROD
 
 ![](img/branching.png)
 
----?image=https://res.cloudinary.com/teepublic/image/private/s--K35E_lTm--/t_Preview/b_rgb:c8e0ec,c_limit,f_jpg,h_630,q_90,w_630/v1478503582/production/designs/790282_1.jpg&size=contain
-
-## @color[darkgreen](batch)@color[white](ing)
-
 ---
 
 ## monitoring
@@ -327,6 +323,10 @@ ACC == PROD
 +++
 
 ## knowledge (graphs)
+
+---?image=https://res.cloudinary.com/teepublic/image/private/s--K35E_lTm--/t_Preview/b_rgb:c8e0ec,c_limit,f_jpg,h_630,q_90,w_630/v1478503582/production/designs/790282_1.jpg&size=contain
+
+## @color[darkgreen](batch)@color[white](ing)
 
 ---?image=http://ludwinedekker.com/wp-content/uploads/2017/08/brain-2029391_1280-1200x1076.png&size=contain&color=black
 

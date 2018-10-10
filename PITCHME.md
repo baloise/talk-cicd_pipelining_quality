@@ -28,13 +28,13 @@ Software, Security & **Release Engineer** @ [Baloise](https://www.baloise.com)
 +++?image=https://ak8.picdn.net/shutterstock/videos/15411808/thumb/2.jpg&size=contain
 @title[insights]
 
-large-scale enterprise project
+large(r)-scale enterprise project
 
 1.3k parallel sessions / day
 
-4+ products
+4+ applications
 
-in- and outbound services
+20+ in- and outbound services
 
 8 Scrum teams work in parallel
 
@@ -152,9 +152,9 @@ publish artifacts
 
 ## environment(s), runtime(s)
 
-[VM](https://en.wikipedia.org/wiki/Virtual_machine)s with [RHEL](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux) and [Liima](http://www.liima.org)
+[VM](https://en.wikipedia.org/wiki/Virtual_machine)s with [RHEL](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux) 
 
-using [Ansible](https://www.ansible.com)
+Provisioned via [puppet/r10k](https://github.com/puppetlabs/r10k), [Liima](http://www.liima.org), [Jerakia](http://jerakia.io) and [Ansible](https://www.ansible.com)
 
 future: [OpenShift](https://en.wikipedia.org/wiki/OpenShift)
 

@@ -1,7 +1,7 @@
 ---?image=img/conference-background.png&size=contain
-@snap[north]
+
 # Pipelining Quality
-@snapend
+## #BaselOne18
 
 ---
 @title[about]

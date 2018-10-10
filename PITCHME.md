@@ -244,11 +244,11 @@ all @color[darkgreen](release candidates == **RELEASE**)
 
 +++
 
-dedicated people / teams for releng
+@color[darkgreen](dedicated people (Ts)) for releng
 
-releng-repo for cross-app scripted pipelines used in CI/CD
+@color[darkgreen](releng-repo) for cross-app scripted pipelines used in CI/CD
 
-Jenkins: Shared Libraries
+Jenkins: @color[darkgreen](shared libraries)
 
 [jenkinsci/JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit)
 
@@ -258,7 +258,7 @@ Jenkins: Shared Libraries
 
 ![](img/deceleration.png)
 
-RCs: **r**elease **c**andidate(s) - dedicated code freeze dates
+RCs: **r**elease **c**andidate(s) + code freeze dates
 
 nightly: T → **+1d** → I → **+2d** → A → **+3d** → P
 
@@ -280,9 +280,11 @@ MAJOR (+123d) == MINOR (+123d) == MICRO (+1d) == HOTFIX (+4h)
 
 ![](img/dataflow-acc.png)
 
-3 times a year ACC becomes PROD
+3 times a year ACC becomes PROD @ Baloise
 
-ACC is treated as PROD
+once a week ACC becomes PROD @ Galileo
+
+ACC == PROD
 
 ---?image=https://www.grund-wissen.de/mathematik/_images/abstand-parallele-geraden.png&size=contain
 

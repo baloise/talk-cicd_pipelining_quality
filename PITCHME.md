@@ -92,13 +92,13 @@ unknown → known
 - dedicated releng
 - deceleration: T → I → A → P
 - data: only PROD is PROD
-- batching
 
 +++
 
 ## @color[goldenrod](flexibility)
-- embrace alternatives: parallelization
 - be prepared: fastlane
+- embrace alternatives: parallelization
+- batching
 - be observant: monitoring
 
 ---

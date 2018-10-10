@@ -328,7 +328,7 @@ ACC == PROD
 
 ## @color[darkgreen](batch)@color[white](ing)
 
----?image=http://ludwinedekker.com/wp-content/uploads/2017/08/brain-2029391_1280-1200x1076.png&size=contain&color=black
++++?image=http://ludwinedekker.com/wp-content/uploads/2017/08/brain-2029391_1280-1200x1076.png&size=contain&color=black
 
 ## automation is key
 

@@ -103,7 +103,7 @@ unknown → known
 
 ---
 
-## knowledge dashboard
+## knowledge base
 
 everything @color[darkgreen](digital and connected)
 

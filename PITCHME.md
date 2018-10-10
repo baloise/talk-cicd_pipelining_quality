@@ -1,6 +1,6 @@
 ---?image=img/conference-background.png&size=contain
 
-# Pipelining Quality
+## Pipelining Quality
 
 ---
 @title[about]

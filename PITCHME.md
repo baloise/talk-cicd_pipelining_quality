@@ -1,7 +1,6 @@
 ---?image=img/conference-background.png&size=contain
 
 # Pipelining Quality
-## #BaselOne18
 
 ---
 @title[about]

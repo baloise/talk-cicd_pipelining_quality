@@ -320,9 +320,21 @@ ACC == PROD
 
 ## monitoring
 
-+++
+active environment health surveillance
+
+polling based: graph and time-series DBs
+
+push based: Dynatrace Agents
+
+long(er)-term: Splunk log index
+
++++?image=https://prometheus.io/assets/prometheus_logo_grey.svg&size=contain
 
 ## knowledge (graphs)
+
+![neo4j](https://neo4j.com/wp-content/themes/neo4jweb/assets/images/neo4j-logo-2015.png)
+
+(derived) time-series graphs: [prometheus](https://github.com/prometheus) and [grafana](https://github.com/grafana/grafana/)
 
 ---?image=https://res.cloudinary.com/teepublic/image/private/s--K35E_lTm--/t_Preview/b_rgb:c8e0ec,c_limit,f_jpg,h_630,q_90,w_630/v1478503582/production/designs/790282_1.jpg&size=contain
 

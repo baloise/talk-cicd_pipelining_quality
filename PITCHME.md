@@ -316,11 +316,13 @@ ACC == PROD
 
 ![](img/branching.png)
 
----
+---?image=https://www.o-aconsult.com/wp-content/uploads/2018/08/monitoring1.png&size=contain
+
++++
 
 ## monitoring
 
-active environment health surveillance
+@color[darkgreen](active) environment health surveillance
 
 polling based: graph and time-series DBs
 

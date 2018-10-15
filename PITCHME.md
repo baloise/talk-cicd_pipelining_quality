@@ -7,7 +7,7 @@
  
 ![me](https://github.com/MarkusTiede/about/raw/master/img/me-circle.png)
 
-[@MarkusTiede](https://twitter.com/markustiede) - ![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse")
+![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse")
 
 Software, Security & **Release Engineer** @ [Baloise](https://www.baloise.com)
 

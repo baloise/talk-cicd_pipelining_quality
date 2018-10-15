@@ -228,11 +228,11 @@ future: [OpenShift](https://en.wikipedia.org/wiki/OpenShift)
 
 ### @color[darkgreen](artifact repositories)
 
+@color[darkgreen](we (git) tag everything)
+
 @color[darkgreen](continuous SNAPSHOTs) on green (JUnit) build(s)
 
 1 x nightly @color[darkgreen](semi-permanent SNAPSHOTs) / application
-
-time frame: max. 8 weeks
 
 all @color[darkgreen](release candidates == **RELEASE**)
 

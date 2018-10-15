@@ -88,8 +88,8 @@ unknown → known
 - knowledge (tracking): digital dashboard
 - automate everything
 - constant knowledge gain: fail fast & early
-- freeze / reproduce states: snapshots, versioning
-- dedicated releng
+- freeze / reproduce states
+- (dedicated) releng: **rel**ease **eng**ineering
 - deceleration: T → I → A → P
 - data: only PROD is PROD
 

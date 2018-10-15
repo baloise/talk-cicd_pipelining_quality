@@ -228,7 +228,7 @@ future: [OpenShift](https://en.wikipedia.org/wiki/OpenShift)
 
 ### @color[darkgreen](artifact repositories)
 
-@color[darkgreen](we (git) tag everything)
+(git) @color[darkgreen](tag everything)
 
 @color[darkgreen](continuous SNAPSHOTs) on green (JUnit) build(s)
 

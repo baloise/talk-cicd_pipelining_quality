@@ -85,8 +85,8 @@ unknown → known
 
 ## @color[goldenrod](predictability)
 
-- knowledge (tracking): digital dashboard
-- automate everything
+- knowledge (tracking)
+- automation
 - constant knowledge gain: fail fast & early
 - freeze / reproduce states
 - (dedicated) releng: **rel**ease **eng**ineering
@@ -98,8 +98,9 @@ unknown → known
 ## @color[goldenrod](flexibility)
 - be prepared: fastlane
 - embrace alternatives: parallelization
-- batching
+- branching
 - be observant: monitoring
+- batching
 
 ---
 
@@ -107,7 +108,7 @@ unknown → known
 
 everything @color[darkgreen](digital and connected)
 
-[Confluence ↔ JIRA](https://de.atlassian.com)↔ [git](https://git-scm.com) ↔ environments ↔ deployments ↔ tests
+[Confluence ↔ JIRA](https://de.atlassian.com)↔ [git](https://git-scm.com) ↔ versions ↔ deployments ↔ environments ↔ tests
  
 under @color[darkgreen](version control)
 
